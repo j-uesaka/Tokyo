@@ -1,0 +1,26 @@
+{
+  "test": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-reacttokyo-test-84302-authRole",
+      "UnauthRoleArn": "arn:aws:iam::533267026814:role/amplify-reacttokyo-test-84302-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::533267026814:role/amplify-reacttokyo-test-84302-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-reacttokyo-test-84302-deployment",
+      "UnauthRoleName": "amplify-reacttokyo-test-84302-unauthRole",
+      "StackName": "amplify-reacttokyo-test-84302",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:533267026814:stack/amplify-reacttokyo-test-84302/cd403a20-c6db-11ee-ac97-0aaa60a8bb55",
+      "AmplifyAppId": "d10j4jk0clmys0"
+    },
+    "categories": {
+      "api": {
+        "reacttokyo": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d10j4jk0clmys0",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}
